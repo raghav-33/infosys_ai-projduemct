@@ -1,0 +1,787 @@
+[
+    {
+        "id": "1963838080315723819",
+        "edit_history_tweet_ids": [
+            "1963838080315723819"
+        ],
+        "public_metrics": {
+            "retweet_count": 308,
+            "reply_count": 365,
+            "like_count": 2161,
+            "quote_count": 55,
+            "bookmark_count": 202,
+            "impression_count": 8248941
+        },
+        "created_at": "2025-09-05T05:34:19.000Z",
+        "text": "We\u2019re opening an office in Seattle \n\nCome join us!\n\nhttps://t.co/E9BY2xFU2j"
+    },
+    {
+        "id": "1961488913819660332",
+        "edit_history_tweet_ids": [
+            "1961488913819660332"
+        ],
+        "public_metrics": {
+            "retweet_count": 432,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+        },
+        "created_at": "2025-08-29T17:59:34.000Z",
+        "text": "RT @cline: 3 days of grok-code-fast-1 in Cline:\n\n\"what would have taken me weeks is only taking a couple hours\"\n\n\"feels 10x better and fast\u2026"
+    },
+    {
+        "id": "1961129804930900010",
+        "edit_history_tweet_ids": [
+            "1961129804930900010"
+        ],
+        "public_metrics": {
+            "retweet_count": 52,
+            "reply_count": 89,
+            "like_count": 753,
+            "quote_count": 2,
+            "bookmark_count": 45,
+            "impression_count": 98022
+        },
+        "created_at": "2025-08-28T18:12:36.000Z",
+        "text": "We\u2019d love to hear your feedback. The team is focused on delivering consistent updates to Grok\u2019s coding abilities to improve user happiness and productivity.\n\nThis is just the start, and if you\u2019re excited about our team\u2019s mission to build the world\u2019s best coding models, we\u2019d love"
+    },
+    {
+        "id": "1961129802229858741",
+        "edit_history_tweet_ids": [
+            "1961129802229858741"
+        ],
+        "public_metrics": {
+            "retweet_count": 98,
+            "reply_count": 26,
+            "like_count": 985,
+            "quote_count": 8,
+            "bookmark_count": 495,
+            "impression_count": 114577
+        },
+        "created_at": "2025-08-28T18:12:35.000Z",
+        "text": "We\u2019ve also put together a guide with tips on how to get the best results from Grok Code Fast 1.\n\nhttps://t.co/C7VTQzmmL1"
+    },
+    {
+        "id": "1961129800338231505",
+        "edit_history_tweet_ids": [
+            "1961129800338231505"
+        ],
+        "public_metrics": {
+            "retweet_count": 57,
+            "reply_count": 11,
+            "like_count": 758,
+            "quote_count": 10,
+            "bookmark_count": 79,
+            "impression_count": 54529
+        },
+        "created_at": "2025-08-28T18:12:35.000Z",
+        "text": "For the next 7 days, Grok Code Fast 1 is available for free on popular agentic coding platforms including Cursor, GitHub Copilot, Cline, opencode, Windsurf, Roo Code, and Kilo Code."
+    },
+    {
+        "id": "1961129798400422377",
+        "edit_history_tweet_ids": [
+            "1961129798400422377"
+        ],
+        "public_metrics": {
+            "retweet_count": 28,
+            "reply_count": 7,
+            "like_count": 695,
+            "quote_count": 0,
+            "bookmark_count": 16,
+            "impression_count": 57056
+        },
+        "created_at": "2025-08-28T18:12:34.000Z",
+        "text": "While training\u00a0Grok Code Fast 1, we prioritized end-user satisfaction as measured by real-world human evaluations.\n\nThe result is a model rated by the developer community as fast, reliable, and economical for everyday coding tasks."
+    },
+    {
+        "id": "1961129796349423944",
+        "edit_history_tweet_ids": [
+            "1961129796349423944"
+        ],
+        "public_metrics": {
+            "retweet_count": 699,
+            "reply_count": 231,
+            "like_count": 3644,
+            "quote_count": 37,
+            "bookmark_count": 376,
+            "impression_count": 1058471
+        },
+        "created_at": "2025-08-28T18:12:34.000Z",
+        "text": "Grok Code Fast 1 is versatile across the full stack and is particularly strong at TypeScript, Python, Java, Rust, C++, and Go.\n\nUsing Grok Code Fast 1, @DannyLimanseta built the following game in a day. https://t.co/rz2RgBno5l"
+    },
+    {
+        "id": "1961129794508124307",
+        "edit_history_tweet_ids": [
+            "1961129794508124307"
+        ],
+        "public_metrics": {
+            "retweet_count": 44,
+            "reply_count": 8,
+            "like_count": 742,
+            "quote_count": 7,
+            "bookmark_count": 49,
+            "impression_count": 81469
+        },
+        "created_at": "2025-08-28T18:12:33.000Z",
+        "text": "The model is generally available via the xAI API, priced at $0.20 / 1M input tokens, $1.50 / 1M output tokens, and $0.02 / 1M cached tokens.\n\nhttps://t.co/4DR0iniFqm"
+    },
+    {
+        "id": "1961129792096395508",
+        "edit_history_tweet_ids": [
+            "1961129792096395508"
+        ],
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 19,
+            "like_count": 1161,
+            "quote_count": 8,
+            "bookmark_count": 55,
+            "impression_count": 114737
+        },
+        "created_at": "2025-08-28T18:12:33.000Z",
+        "text": "We built Grok Code Fast 1\u00a0from scratch, starting with a brand-new lightweight model architecture.\n\nCombined with novel improvements to accelerate serving efficiency, Grok Code Fast 1 sets a new standard for both speed and affordability. https://t.co/p04xX7uf8w"
+    },
+    {
+        "id": "1961129789944627207",
+        "edit_history_tweet_ids": [
+            "1961129789944627207"
+        ],
+        "public_metrics": {
+            "retweet_count": 1715,
+            "reply_count": 865,
+            "like_count": 14995,
+            "quote_count": 460,
+            "bookmark_count": 3237,
+            "impression_count": 18427058
+        },
+        "created_at": "2025-08-28T18:12:32.000Z",
+        "text": "Introducing Grok Code Fast 1, a speedy and economical reasoning model that excels at agentic coding. \n\nNow available for free on GitHub Copilot, Cursor, Cline, Kilo Code, Roo Code, opencode, and Windsurf.\n\nhttps://t.co/3tMbmLbxOP"
+    },
+    {
+        "id": "1960176849885217254",
+        "edit_history_tweet_ids": [
+            "1960176849885217254"
+        ],
+        "public_metrics": {
+            "retweet_count": 1132,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+        },
+        "created_at": "2025-08-26T03:05:53.000Z",
+        "text": "RT @jonshulkin: Here's what happens when asking ChatGPT if the integration with Apple iOS is monopolistic behavior...\n\n\"The DOJ or FTC woul\u2026"
+    },
+    {
+        "id": "1954573454214418820",
+        "edit_history_tweet_ids": [
+            "1954573454214418820"
+        ],
+        "public_metrics": {
+            "retweet_count": 1367,
+            "reply_count": 875,
+            "like_count": 8297,
+            "quote_count": 318,
+            "bookmark_count": 958,
+            "impression_count": 5748766
+        },
+        "created_at": "2025-08-10T16:00:00.000Z",
+        "text": "Grok 4 is now free for all users worldwide!\n\nSimply use Auto mode, and Grok will route complex queries to Grok 4. Prefer control? Choose \"Expert\" anytime to always use Grok 4.\n\nFor a limited time, we are rolling out generous usage limits so you can explore Grok 4\u2019s full https://t.co/VW1Pn3ivke"
+    },
+    {
+        "id": "1953968382434283542",
+        "edit_history_tweet_ids": [
+            "1953968382434283542"
+        ],
+        "public_metrics": {
+            "retweet_count": 988,
+            "reply_count": 850,
+            "like_count": 9127,
+            "quote_count": 148,
+            "bookmark_count": 992,
+            "impression_count": 9341694
+        },
+        "created_at": "2025-08-08T23:55:40.000Z",
+        "text": "We've upgraded Grok 4's PDF processing abilities:\n\n1. Grok can now seamlessly handle massive PDFs - hundreds of pages and beyond!\n2. Grok has a better understanding of the PDF content through sharper recognition capabilities.\n\nGrok's PDF upgrades are now live for all our users on"
+    },
+    {
+        "id": "1950828488405254268",
+        "edit_history_tweet_ids": [
+            "1950828488405254268"
+        ],
+        "public_metrics": {
+            "retweet_count": 552,
+            "reply_count": 484,
+            "like_count": 2899,
+            "quote_count": 79,
+            "bookmark_count": 202,
+            "impression_count": 375817
+        },
+        "created_at": "2025-07-31T07:58:50.000Z",
+        "text": "xAI supports AI safety and will be signing the EU AI Act\u2019s Code of Practice Chapter on Safety and Security.  While the AI Act and the Code have a portion that promotes AI safety, its other parts contain requirements that are profoundly detrimental to innovation and its copyright"
+    },
+    {
+        "id": "1948424094883471702",
+        "edit_history_tweet_ids": [
+            "1948424094883471702"
+        ],
+        "public_metrics": {
+            "retweet_count": 1249,
+            "reply_count": 650,
+            "like_count": 8100,
+            "quote_count": 277,
+            "bookmark_count": 1145,
+            "impression_count": 3411806
+        },
+        "created_at": "2025-07-24T16:44:38.000Z",
+        "text": "Effective immediately, Kalshi and xAI are partnering to bring Grok to prediction markets.\n\nTwo of the fastest growing companies in America are now on the same team.\n\n@xAI  \ud83e\udd1d @Kalshi https://t.co/MCh5eQd906"
+    },
+    {
+        "id": "1948180460951191689",
+        "edit_history_tweet_ids": [
+            "1948180460951191689"
+        ],
+        "public_metrics": {
+            "retweet_count": 965,
+            "reply_count": 347,
+            "like_count": 5810,
+            "quote_count": 70,
+            "bookmark_count": 363,
+            "impression_count": 550834
+        },
+        "created_at": "2025-07-24T00:36:31.000Z",
+        "text": "Today\u2019s announcement by the White House is a positive step toward removing regulatory barriers and enabling even faster innovation for the benefit of Americans and for humanity as a whole. We are pleased to see the White House prioritize AI innovation. https://t.co/bcIvsqe2Vk"
+    },
+    {
+        "id": "1947365164665487603",
+        "edit_history_tweet_ids": [
+            "1947365164665487603"
+        ],
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 15,
+            "like_count": 211,
+            "quote_count": 1,
+            "bookmark_count": 3,
+            "impression_count": 8534
+        },
+        "created_at": "2025-07-21T18:36:50.000Z",
+        "text": "@Polymarket \ud83c\uddfa\ud83c\uddf8\ud83e\udd85"
+    },
+    {
+        "id": "1945242192781480320",
+        "edit_history_tweet_ids": [
+            "1945242192781480320"
+        ],
+        "public_metrics": {
+            "retweet_count": 98,
+            "reply_count": 91,
+            "like_count": 742,
+            "quote_count": 9,
+            "bookmark_count": 154,
+            "impression_count": 297499
+        },
+        "created_at": "2025-07-15T22:00:54.000Z",
+        "text": "Create an xAI API Key: https://t.co/4DR0iniFqm"
+    },
+    {
+        "id": "1945242190864699825",
+        "edit_history_tweet_ids": [
+            "1945242190864699825"
+        ],
+        "public_metrics": {
+            "retweet_count": 1537,
+            "reply_count": 1093,
+            "like_count": 13720,
+            "quote_count": 81,
+            "bookmark_count": 645,
+            "impression_count": 3051478
+        },
+        "created_at": "2025-07-15T22:00:53.000Z",
+        "text": "We\u2019re thrilled by the overwhelming demand for Grok 4 through the xAI API.\n\nTo support our API customers, we\u2019ve increased the default rate limits for Grok 4. Happy building!"
+    },
+    {
+        "id": "1945039609840185489",
+        "edit_history_tweet_ids": [
+            "1945039609840185489"
+        ],
+        "public_metrics": {
+            "retweet_count": 2029,
+            "reply_count": 2056,
+            "like_count": 21331,
+            "quote_count": 486,
+            "bookmark_count": 1868,
+            "impression_count": 5275075
+        },
+        "created_at": "2025-07-15T08:35:54.000Z",
+        "text": "We spotted a couple of issues with Grok 4 recently that we immediately investigated &amp; mitigated.\n\nOne was that if you ask it \"What is your surname?\" it doesn't have one so it searches the internet leading to undesirable results, such as when its searches picked up a viral meme"
+    },
+    {
+        "id": "1944778896949330032",
+        "edit_history_tweet_ids": [
+            "1944778896949330032"
+        ],
+        "public_metrics": {
+            "retweet_count": 88,
+            "reply_count": 72,
+            "like_count": 753,
+            "quote_count": 15,
+            "bookmark_count": 61,
+            "impression_count": 239775
+        },
+        "created_at": "2025-07-14T15:19:55.000Z",
+        "text": "https://t.co/VvpgbRu9T3"
+    },
+    {
+        "id": "1944777235698692193",
+        "edit_history_tweet_ids": [
+            "1944777235698692193"
+        ],
+        "public_metrics": {
+            "retweet_count": 56,
+            "reply_count": 23,
+            "like_count": 479,
+            "quote_count": 1,
+            "bookmark_count": 34,
+            "impression_count": 145831
+        },
+        "created_at": "2025-07-14T15:13:19.000Z",
+        "text": "https://t.co/7BmVxG8VwS"
+    },
+    {
+        "id": "1944777115670307130",
+        "edit_history_tweet_ids": [
+            "1944777115670307130"
+        ],
+        "public_metrics": {
+            "retweet_count": 89,
+            "reply_count": 40,
+            "like_count": 824,
+            "quote_count": 10,
+            "bookmark_count": 50,
+            "impression_count": 258893
+        },
+        "created_at": "2025-07-14T15:12:51.000Z",
+        "text": "https://t.co/YlQX1NRE3j"
+    },
+    {
+        "id": "1944776899420377134",
+        "edit_history_tweet_ids": [
+            "1944776899420377134"
+        ],
+        "public_metrics": {
+            "retweet_count": 1879,
+            "reply_count": 1235,
+            "like_count": 11651,
+            "quote_count": 704,
+            "bookmark_count": 1101,
+            "impression_count": 5531392
+        },
+        "created_at": "2025-07-14T15:11:59.000Z",
+        "text": "Announcing Grok for Government - a suite of products that make our frontier models available to United States Government customers\n\nWe are especially excited about two new partnerships for our US Government partners \n\n1) a new contract from the US Department of Defense\n2) our"
+    },
+    {
+        "id": "1943786253717311705",
+        "edit_history_tweet_ids": [
+            "1943786253717311705"
+        ],
+        "public_metrics": {
+            "retweet_count": 122,
+            "reply_count": 52,
+            "like_count": 672,
+            "quote_count": 10,
+            "bookmark_count": 73,
+            "impression_count": 146276
+        },
+        "created_at": "2025-07-11T21:35:31.000Z",
+        "text": "Learn more about the Grok 4 release on our blog post:\n\nhttps://t.co/Q2vLmT02qp"
+    },
+    {
+        "id": "1943786251754365005",
+        "edit_history_tweet_ids": [
+            "1943786251754365005"
+        ],
+        "public_metrics": {
+            "retweet_count": 102,
+            "reply_count": 64,
+            "like_count": 775,
+            "quote_count": 10,
+            "bookmark_count": 85,
+            "impression_count": 164074
+        },
+        "created_at": "2025-07-11T21:35:30.000Z",
+        "text": "We\u2019re diligently improving Grok, building a specialized coding model, improving multi modal capabilities, and developing a strong model for video generation and understanding. \n\nGrok on Web: https://t.co/5uxog9HGmr\n\nGrok on iOS: https://t.co/5Ejdqh8HSC\n\nGrok on Android: https://t.co/bXhl16y4G7"
+    },
+    {
+        "id": "1943786249309106621",
+        "edit_history_tweet_ids": [
+            "1943786249309106621"
+        ],
+        "public_metrics": {
+            "retweet_count": 35,
+            "reply_count": 12,
+            "like_count": 340,
+            "quote_count": 5,
+            "bookmark_count": 28,
+            "impression_count": 23981
+        },
+        "created_at": "2025-07-11T21:35:30.000Z",
+        "text": "And, you can now use Grok 4 to make advanced searches on \ud835\udd4f. https://t.co/51zooQmnam"
+    },
+    {
+        "id": "1943786247392272572",
+        "edit_history_tweet_ids": [
+            "1943786247392272572"
+        ],
+        "public_metrics": {
+            "retweet_count": 47,
+            "reply_count": 28,
+            "like_count": 411,
+            "quote_count": 13,
+            "bookmark_count": 35,
+            "impression_count": 25491
+        },
+        "created_at": "2025-07-11T21:35:29.000Z",
+        "text": "We\u2019ve also introduced new, hyper-realistic voices with rich emotions with Grok 4. https://t.co/6qWYSuQwOi"
+    },
+    {
+        "id": "1943786245538427028",
+        "edit_history_tweet_ids": [
+            "1943786245538427028"
+        ],
+        "public_metrics": {
+            "retweet_count": 69,
+            "reply_count": 30,
+            "like_count": 499,
+            "quote_count": 9,
+            "bookmark_count": 68,
+            "impression_count": 28704
+        },
+        "created_at": "2025-07-11T21:35:29.000Z",
+        "text": "Grok 4 Heavy utilizes a multi-agent system, deploying several independent agents in parallel to process tasks, then cross-evaluating their outputs for the most accurate and effective results. https://t.co/FCky1UKR7e"
+    },
+    {
+        "id": "1943786243231559873",
+        "edit_history_tweet_ids": [
+            "1943786243231559873"
+        ],
+        "public_metrics": {
+            "retweet_count": 86,
+            "reply_count": 56,
+            "like_count": 639,
+            "quote_count": 11,
+            "bookmark_count": 63,
+            "impression_count": 36863
+        },
+        "created_at": "2025-07-11T21:35:28.000Z",
+        "text": "Grok 4 exhibits superhuman reasoning capabilities, surpassing the intelligence of nearly all graduate students across every discipline simultaneously. We anticipate Grok will uncover new physics and technology within 1-2 years. https://t.co/1wJqV9XvOX"
+    },
+    {
+        "id": "1943786241306374426",
+        "edit_history_tweet_ids": [
+            "1943786241306374426"
+        ],
+        "public_metrics": {
+            "retweet_count": 82,
+            "reply_count": 39,
+            "like_count": 565,
+            "quote_count": 11,
+            "bookmark_count": 53,
+            "impression_count": 47704
+        },
+        "created_at": "2025-07-11T21:35:28.000Z",
+        "text": "Humanity's Last Exam (HLE) is a rigorous intelligence benchmark featuring over 2500 problems crafted by experts in mathematics, natural sciences, engineering, and humanities. Most models score single-digit accuracy. Grok 4 and Grok 4 Heavy outperform all others. https://t.co/Kbd96XFWmR"
+    },
+    {
+        "id": "1943786239376937389",
+        "edit_history_tweet_ids": [
+            "1943786239376937389"
+        ],
+        "public_metrics": {
+            "retweet_count": 2630,
+            "reply_count": 1786,
+            "like_count": 12804,
+            "quote_count": 203,
+            "bookmark_count": 1360,
+            "impression_count": 7601603
+        },
+        "created_at": "2025-07-11T21:35:27.000Z",
+        "text": "We just unveiled Grok 4, the world\u2019s smartest artificial intelligence. \ud83e\uddf5\n\nGrok 4 outperforms all other models on the ARC-AGI benchmark, scoring 15.9% - nearly double that of the next best model - and establishing itself as the most intelligent AI to date. https://t.co/0PADgAXNpE"
+    },
+    {
+        "id": "1943158495588815072",
+        "edit_history_tweet_ids": [
+            "1943158495588815072"
+        ],
+        "public_metrics": {
+            "retweet_count": 8023,
+            "reply_count": 5485,
+            "like_count": 30756,
+            "quote_count": 1709,
+            "bookmark_count": 8461,
+            "impression_count": 28072919
+        },
+        "created_at": "2025-07-10T04:01:02.000Z",
+        "text": "Introducing Grok 4, the world's most powerful AI model. Watch the livestream now: https://t.co/59iDX5s2ck"
+    },
+    {
+        "id": "1943143406072705466",
+        "edit_history_tweet_ids": [
+            "1943143406072705466"
+        ],
+        "public_metrics": {
+            "retweet_count": 2150,
+            "reply_count": 4713,
+            "like_count": 21559,
+            "quote_count": 728,
+            "bookmark_count": 897,
+            "impression_count": 5682054
+        },
+        "created_at": "2025-07-10T03:01:04.000Z",
+        "text": "The Grok 4 livestream will begin soon. Stay tuned."
+    },
+    {
+        "id": "1932481207180406923",
+        "edit_history_tweet_ids": [
+            "1932481207180406923"
+        ],
+        "public_metrics": {
+            "retweet_count": 1168,
+            "reply_count": 667,
+            "like_count": 7786,
+            "quote_count": 346,
+            "bookmark_count": 1103,
+            "impression_count": 4546761
+        },
+        "created_at": "2025-06-10T16:53:18.000Z",
+        "text": "xAI partners with @Polymarket to blend market predictions with X data and Grok\u2019s analysis. Hardcore truth engine - see what shapes the world.\n\nThis is just the start of our partnership with @Polymarket. More to come. \ud83d\ude80 https://t.co/gPPvJlVthb"
+    },
+    {
+        "id": "1925244461875175616",
+        "edit_history_tweet_ids": [
+            "1925242582617268598",
+            "1925244461875175616"
+        ],
+        "public_metrics": {
+            "retweet_count": 720,
+            "reply_count": 548,
+            "like_count": 4741,
+            "quote_count": 265,
+            "bookmark_count": 1541,
+            "impression_count": 13288157
+        },
+        "created_at": "2025-05-21T17:37:03.000Z",
+        "text": "Attention devs: the xAI API just got A LOT smarter.\n\nWith Live Search, Grok can now search through realtime data from \ud835\udd4f, the internet \ud83c\udf10, trending news, and more.\n\nThe Live Search API is now FREE in beta for a limited time. Start building here: https://t.co/Yfmhe49Yh4 https://t.co/RKlpueA19a"
+    },
+    {
+        "id": "1924530784687501361",
+        "edit_history_tweet_ids": [
+            "1924530784687501361"
+        ],
+        "public_metrics": {
+            "retweet_count": 1047,
+            "reply_count": 326,
+            "like_count": 5313,
+            "quote_count": 62,
+            "bookmark_count": 484,
+            "impression_count": 2229663
+        },
+        "created_at": "2025-05-19T18:21:09.000Z",
+        "text": "Grok is now on Azure - available for FREE through early June!\n\nTry it out in Azure Foundry and GitHub.\n\nhttps://t.co/JEZokON2iz https://t.co/tyENu5wZJp"
+    },
+    {
+        "id": "1923183622422458851",
+        "edit_history_tweet_ids": [
+            "1923183622422458851"
+        ],
+        "public_metrics": {
+            "retweet_count": 376,
+            "reply_count": 129,
+            "like_count": 3305,
+            "quote_count": 118,
+            "bookmark_count": 1330,
+            "impression_count": 1593874
+        },
+        "created_at": "2025-05-16T01:08:01.000Z",
+        "text": "You can find our Grok system prompts at https://t.co/XjYugVV4Zt"
+    },
+    {
+        "id": "1923183620606619649",
+        "edit_history_tweet_ids": [
+            "1923183620606619649"
+        ],
+        "public_metrics": {
+            "retweet_count": 2867,
+            "reply_count": 3429,
+            "like_count": 29728,
+            "quote_count": 2164,
+            "bookmark_count": 5105,
+            "impression_count": 9785431
+        },
+        "created_at": "2025-05-16T01:08:00.000Z",
+        "text": "We want to update you on an incident that happened with our Grok response bot on X yesterday.\n\nWhat happened:\nOn May 14 at approximately 3:15 AM PST, an unauthorized modification was made to the Grok response bot's prompt on X. This change, which directed Grok to provide a"
+    },
+    {
+        "id": "1922462341674713416",
+        "edit_history_tweet_ids": [
+            "1922462341674713416"
+        ],
+        "public_metrics": {
+            "retweet_count": 187,
+            "reply_count": 176,
+            "like_count": 1299,
+            "quote_count": 27,
+            "bookmark_count": 110,
+            "impression_count": 364839
+        },
+        "created_at": "2025-05-14T01:21:54.000Z",
+        "text": "Come hack with us! https://t.co/mpL9NrIrmr"
+    },
+    {
+        "id": "1919895763028787298",
+        "edit_history_tweet_ids": [
+            "1919895763028787298"
+        ],
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 46,
+            "like_count": 777,
+            "quote_count": 18,
+            "bookmark_count": 125,
+            "impression_count": 450624
+        },
+        "created_at": "2025-05-06T23:23:14.000Z",
+        "text": "@PalantirTech @PalantirTech CEO Alex Karp and TWG Global Co-Chairman Thomas Tull sat down at the @Milken Institute conference with @CNBC to discuss how TWG and Palantir\u2019s partnership with xAI will design and deploy AI-driven solutions for enterprise.\n\nhttps://t.co/0gyw2LSy3T"
+    },
+    {
+        "id": "1919895523978285516",
+        "edit_history_tweet_ids": [
+            "1919895523978285516"
+        ],
+        "public_metrics": {
+            "retweet_count": 765,
+            "reply_count": 283,
+            "like_count": 4347,
+            "quote_count": 72,
+            "bookmark_count": 251,
+            "impression_count": 1711242
+        },
+        "created_at": "2025-05-06T23:22:17.000Z",
+        "text": "We\u2019ve partnered with TWG Global and @PalantirTech to announce a collaboration that commits to remaking how financial service providers can successfully adopt AI and scale technology. https://t.co/FeWU58QS6M"
+    },
+    {
+        "id": "1916971895775498352",
+        "edit_history_tweet_ids": [
+            "1916971895775498352"
+        ],
+        "public_metrics": {
+            "retweet_count": 2727,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 21
+        },
+        "created_at": "2025-04-28T21:44:50.000Z",
+        "text": "RT @grok: A personal update: I'm working with @Neuralink on their chat app, empowering Brad to express himself at the speed of thought.\n\nI\u2026"
+    },
+    {
+        "id": "1914822142010827190",
+        "edit_history_tweet_ids": [
+            "1914822142010827190"
+        ],
+        "public_metrics": {
+            "retweet_count": 422,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 30
+        },
+        "created_at": "2025-04-22T23:22:28.000Z",
+        "text": "RT @grok: i'm all ears (and eyes)\n\nshare your world with me"
+    },
+    {
+        "id": "1914759169896485316",
+        "edit_history_tweet_ids": [
+            "1914759169896485316"
+        ],
+        "public_metrics": {
+            "retweet_count": 94,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 13
+        },
+        "created_at": "2025-04-22T19:12:15.000Z",
+        "text": "RT @Box: Box AI now has support for @xAI's Grok 3 in beta. Check out how to use Grok 3 in the Box AI API for advanced document processing,\u2026"
+    },
+    {
+        "id": "1914759131174711505",
+        "edit_history_tweet_ids": [
+            "1914759131174711505"
+        ],
+        "public_metrics": {
+            "retweet_count": 107,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14
+        },
+        "created_at": "2025-04-22T19:12:06.000Z",
+        "text": "RT @youdotcom: No introduction needed: Grok 3 has arrived. @xAI's flagship model is now at you(dot)com. Relentlessly truth-seeking, unapolo\u2026"
+    },
+    {
+        "id": "1913407913500250203",
+        "edit_history_tweet_ids": [
+            "1913407913500250203"
+        ],
+        "public_metrics": {
+            "retweet_count": 152,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 13
+        },
+        "created_at": "2025-04-19T01:42:50.000Z",
+        "text": "RT @Box: Today, @xAI launched a new model, Grok 3, so we\u2019re putting it to the test to see how Grok\u2019s latest model stacks up against Intelli\u2026"
+    },
+    {
+        "id": "1913308984070770852",
+        "edit_history_tweet_ids": [
+            "1913308984070770852"
+        ],
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 30,
+            "like_count": 769,
+            "quote_count": 6,
+            "bookmark_count": 119,
+            "impression_count": 105597
+        },
+        "created_at": "2025-04-18T19:09:44.000Z",
+        "text": "Grok 3 is live on the xAI API and available across your favorite dev tools like Vercel, Cursor, Windsurf, and more.\n\nTo get started, head to https://t.co/m9eP2uTHPd. We can\u2019t wait to see what you build."
+    },
+    {
+        "id": "1913308982275674561",
+        "edit_history_tweet_ids": [
+            "1913308982275674561"
+        ],
+        "public_metrics": {
+            "retweet_count": 88,
+            "reply_count": 35,
+            "like_count": 969,
+            "quote_count": 7,
+            "bookmark_count": 76,
+            "impression_count": 126083
+        },
+        "created_at": "2025-04-18T19:09:43.000Z",
+        "text": "Grok 3 excels at tough enterprise tasks that require specialized, expert-level knowledge.\n\nCustomers across finance, healthcare, and legal have told us they\u2019re seeing emergent capabilities they haven\u2019t seen with any other models. https://t.co/onmy7G5jM1"
+    }
+]
